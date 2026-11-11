@@ -3,7 +3,7 @@
 Analyse der 34 Bundesligaspiele der Leverkusener Meistersaison in 15-Minuten-Blöcken:
 Wie verändern sich Tore, Chancenqualität und Pressingintensität im Spielverlauf, und welche Rolle spielen Einwechselspieler?
 
-![Übersicht](downloads/uebersicht_kennzahlen.png)
+![Übersicht](uebersicht_kennzahlen.png)
 
 ## Kernaussagen
 - **Stärkste Phase am Ende:** 22 der 86 Tore fielen ab der 75. Minute (26 %), im letzten Block liegt die Tordifferenz bei +18.
