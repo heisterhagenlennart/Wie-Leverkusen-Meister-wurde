@@ -1,5 +1,3 @@
-# Wie-Leverkusen-Meister-wurde
-Analyse wie Bayer Leverkusen in der Saison23/24 in der Saison durch auffällig viele Tore in der Schlussphase Meister wurde
 # Stark bis zum Schluss: Bayer Leverkusen 2023/24
 
 Analyse der 34 Bundesligaspiele der Leverkusener Meistersaison in 15-Minuten-Blöcken:
